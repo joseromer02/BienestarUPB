@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener [Node.js](https://nodejs.org/) instalado 
    git clone <url_del_repositorio>
 2. Navega al directorio del proyecto:
 cd frontend
-3. Instala las dependencias utilizando npm:
+3. Instala las dependencias dentro de la carpeta frontend utilizando npm:
 npm install
 
 
