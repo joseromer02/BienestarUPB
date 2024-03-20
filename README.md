@@ -19,8 +19,7 @@ cd frontend
 3. Instala las dependencias dentro de la carpeta frontend utilizando npm:
 npm install
 
-
-USO
+## Uso
 Una vez que hayas instalado las dependencias, puedes iniciar el servidor de desarrollo local ejecutando el siguiente comando:
 npm start
 
